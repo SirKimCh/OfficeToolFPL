@@ -33,9 +33,6 @@ This script provides functionality for managing Windows activation, self-destruc
 ## Disclaimer
 Use this script responsibly and ensure you understand the implications of each command. Running these commands may have significant impacts on your system, including altering system activation and Office installations.
 
-## Disclaimer
-Use this script responsibly and ensure you understand the implications of each command. Running these commands may have significant impacts on your system, including altering system activation and Office installations.
-
 - Ensure that you have backups of any important data before running these scripts.
 - Understand that using these scripts might violate the terms of service of the software involved.
 

